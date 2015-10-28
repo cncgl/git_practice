@@ -4,3 +4,8 @@ practice for git operation
 コミット３回目
 開発１回目コミット
 マスター４回目
+feature_1_1
+feature_1_2
+feature_1_3
+feature_1_4
+feature_1_5
