@@ -4,3 +4,4 @@ practice for git operation
 コミット３回目
 マスター４回目
 開発１回目コミット
+マスター４回目
